@@ -1,5 +1,18 @@
 # English Premier League Performance Analysis (2018–2023)
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Proposed Solution](#proposed-solution)
+- [Objectives](#objectives)
+- [Data Sources](#data-sources)
+- [Methodology / Approach](#methodology--approach)
+- [Tools & Technologies](#tools--technologies)
+- [Results / Findings](#results--findings)
+- [Challenges & Solutions](#challenges--solutions)
+- [Conclusion & Recommendations](#conclusion--recommendations)
+---
+
 ## Project Overview
 This project analyzes English Premier League (EPL) performance data from 2018 to 2023. The goal is to extract meaningful KPIs, trends, and insights to support decision-making for coaches, analysts, and sporting directors. The project focuses on both player and team performance, comparing offensive and defensive metrics across seasons.
 
@@ -51,7 +64,7 @@ The data was collected from **[FBref](https://fbref.com/)** using a **Python-bas
 4. **Business Question Mapping** – Linking KPIs and metrics to management objectives  
 5. **KPI Development** – Calculating goals, assists, clean sheets, player rankings, and team metrics  
 6. **Trend & Performance Analysis** – Comparing performance season-to-season and across positions/clubs  
-7. **Dashboard Design** – Building interactive visualizations with Power BI 
+7. **Dashboard Design** – Building interactive visualizations with Power BI / Tableau  
 8. **Reporting & Documentation** – Summarizing findings, recommendations, and methodology
 
 ---
@@ -59,7 +72,7 @@ The data was collected from **[FBref](https://fbref.com/)** using a **Python-bas
 ## Tools & Technologies
 - **Python:** Requests, BeautifulSoup, Pandas, NumPy  
 - **Excel / CSV / SQL:** Data storage and management  
-- **Power BI:** Dashboards and interactive visualizations  
+- **Power BI / Tableau:** Dashboards and interactive visualizations  
 - **Matplotlib / Seaborn:** Exploratory data analysis  
 - **DAX:** KPI calculations in Power BI  
 - **GitHub:** Version control and collaboration
