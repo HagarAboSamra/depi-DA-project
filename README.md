@@ -1,5 +1,8 @@
 # English Premier League Performance Analysis (2018–2023)
 
+All rights reserved to Team Hanen Hosam.
+This is our graduation project from the DEPI program.
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
